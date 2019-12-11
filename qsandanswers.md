@@ -1,1 +1,6 @@
-This is that 
+<<<<<<<<<<<<
+HEAD
+This is this 
+===========
+This is that
+>>>>>>>>>>>>
